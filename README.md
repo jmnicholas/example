@@ -16,7 +16,6 @@ See also the list of contributors who participated in this project.
 
 ## License
 This project is licensed under the BSD 3-Clause License - see the LICENSE.md file for details
-*
-*
+
 
 **Thanks for reading!**
