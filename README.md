@@ -1,5 +1,5 @@
 # example
-respository for git training course 13 May 2020
+Created for git training course on 13 May 2020
 
 This project was created to learn how to share code and only contains simple markdown files.
 
