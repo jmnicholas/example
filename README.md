@@ -7,13 +7,16 @@ No specialist software of any kind is needed.
 
 Built With Notepad :)
 
+## How to contribute
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-Authors
+## Authors
 Jennifer Nicholas
 See also the list of contributors who participated in this project.
 
-License
+## License
 This project is licensed under the BSD 3-Clause License - see the LICENSE.md file for details
+*
+*
 
-Thanks for reading!
+**Thanks for reading!**
